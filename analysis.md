@@ -1,0 +1,9 @@
+<AreaMap 
+    data={la_zip_sales} 
+    areaCol=zip_code
+    geoJsonUrl='path/to/your/geoJson'
+    geoId=ZCTA5CE10
+    value=sales
+    valueFmt=usd
+    height=250
+/>
